@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/ico/ico_ACCICONS0010.ico</file>
+        <file>resource/ico/ico_ACCICONS0011.ico</file>
+        <file>resource/ico/ico_ACCICONS0012.ico</file>
+        <file>resource/ico/ico_ACCICONS0013.ico</file>
+        <file>resource/ico/ico_ACCICONS0014.ico</file>
+        <file>resource/ico/ico_ACCICONS0015.ico</file>
+        <file>resource/ico/ico_ACCICONS0016.ico</file>
+        <file>resource/ico/ico_ACCICONS0017.ico</file>
+        <file>resource/ico/ico_ACCICONS0018.ico</file>
+        <file>resource/ico/ico_ACCICONS0019.ico</file>
+        <file>resource/ico/ico_ACCICONS0020.ico</file>
+        <file>resource/ico/ico_ACCICONS0021.ico</file>
+        <file>resource/ico/ico_ACCICONS0022.ico</file>
+        <file>resource/ico/ico_ACCICONS0023.ico</file>
+        <file>resource/ico/ico_ACCICONS0024.ico</file>
+        <file>resource/ico/ico_ACCICONS0025.ico</file>
+        <file>resource/ico/ico_ACCICONS0026.ico</file>
+        <file>resource/ico/ico_ACCICONS0027.ico</file>
+        <file>resource/ico/ico_ACCICONS0028.ico</file>
+        <file>resource/ico/ico_ACCICONS0029.ico</file>
+        <file>resource/ico/ico_ACCICONS0030.ico</file>
+        <file>resource/ico/ico_ACCICONS0031.ico</file>
+        <file>resource/ico/ico_ACCICONS0032.ico</file>
+        <file>resource/ico/ico_ACCICONS0033.ico</file>
+        <file>resource/ico/ico_ACCICONS0034.ico</file>
+        <file>resource/ico/ico_ACCICONS0035.ico</file>
+        <file>resource/ico/ico_ACCICONS0036.ico</file>
+        <file>resource/ico/ico_ACCICONS0037.ico</file>
+        <file>resource/ico/ico_ACCICONS0038.ico</file>
+        <file>resource/ico/ico_ACCICONS0039.ico</file>
+        <file>resource/ico/ico_ACCICONS0040.ico</file>
+        <file>resource/ico/ico_ACCICONS0041.ico</file>
+        <file>resource/ico/ico_ACCICONS0042.ico</file>
+        <file>resource/ico/ico_ACCICONS0043.ico</file>
+        <file>resource/ico/ico_ACCICONS0044.ico</file>
+    </qresource>
+</RCC>
